@@ -1,0 +1,5 @@
+1. kitchen flash interior scene. C:\Users\u0818512\Downloads\Indianamation-master (1)\Indianamation-master\Content\Maps\house_scene3.umap
+
+2. burning dolls exterior scene - smoke/steam effect exterior scene - C:\Users\u0818512\Downloads\Indianamation-master (1)\Indianamation-master\Content\Maps\Outside_AnimationJSP.umap
+
+3. living room buring interior scene - C:\Users\u0818512\Downloads\Indianamation-master (1)\Indianamation-master\Content\Maps\house_scene_AnimationJSP.umap
